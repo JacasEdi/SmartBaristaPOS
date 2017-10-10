@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Smart Barista POS</string>
+    <string name="title_activity_login_screen">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Login</string>
+    <string name="error_invalid_email">This email address is invalid!</string>
+    <string name="error_invalid_contact_number">This contact number is invalid!</string>
+    <string name="error_invalid_password">This password is too short!</string>
+    <string name="error_invalid_password_match">Does not match password!</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="action_register">Not a member? Register.</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+
+    <!-- Strings related to Category Menu Screen -->
+    <string name="title_activity_category_menu_screen">CategoryMenuScreenActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="splash_image">Splash Image</string>
+
+    <!-- Strings related to Category Cardview -->
+    <string name="category_image_thumbnail_desc">Category Image Thumbnail</string>
+    <string name="category_image_menu_dots_desc">Category Image Menu Dots</string>
+
+    <!-- Strings related to Product Cardview -->
+    <string name="action_place_order">Order Now</string>
+    <string name="action_schedule_order">Schedule Order</string>
+    <string name="product_image_thumbnail_desc">Product Image Thumbnail</string>
+    <string name="product_image_menu_dots_desc">Product Image Menu Dots</string>
+    <string name="problem_desc_hint">Please specify the nature of the problem, when it has occurred, etc</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
